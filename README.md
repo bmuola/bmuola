@@ -34,11 +34,7 @@ I'm a **`Data Analytics Fanatic`**, a **`Financial Accountant`** by profession a
 
 ### Spotify Playing 🎧
 
-[<img src="https:///novatorem-khaki-iota.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31rl2pw54sp2qmpvgsyqvilqt72e?si=488321d59756461a)
-
-
-
-
+[![Spotify](https://novatorem-bmuola.vercel.app/api/spotify)](https://open.spotify.com/user/31rl2pw54sp2qmpvgsyqvilqt72e?si=488321d59756461a)
 
 
 
