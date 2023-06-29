@@ -15,6 +15,43 @@
 
 ## I'm [**Ben**](https://www.linkedin.com/in/benmuola/) and welcome to my Github💙
 
+<img align="right" height="234" width="156" alt="GIF" src="IMG's/Untitled design (1).png" />
+
+I'm a **`Data Analytics Fanatic`**, a **`Financial Accountant`** by profession as well as a **`Front-end Developer`** by Passion.
+
+**Food for thought:**
+
+😑 People who write SQL queries in lowercase shouldn't be allowed to touch a keyboard again. <br>
+🙂 Smiling can lower stress levels and boost your immune system. It's a simple act that can have a positive impact on your overall health. <br>
+⌚ It doesn't take much time to add comments to your SQL. <br>
+😋 Just as taste evolves with experience, so does your coding prowess <br>
+🗄️ Google Workspace is an underrated tool
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
