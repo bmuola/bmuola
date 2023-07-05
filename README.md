@@ -1,6 +1,6 @@
 <p  align="center"><img src = "IMG's/welcome to my gitty (2).gif"></p>
 
-### Welcome to my Readme stranger! 👋
+### Hi Stranger! 👋
 
 <a href="https://www.linkedin.com/in/benmuola/">
   <img align="left" alt="Ben's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
