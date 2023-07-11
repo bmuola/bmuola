@@ -37,7 +37,7 @@ I'm a **`Data Analytics Fanatic`**, a **`Financial Accountant`** by profession a
 **Still Perfecting:**
 <br>
 <br>
-<img src="https://img.shields.io/badge/Python-217346?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/R-F37626?style=for-the-badge&logo=R&logoColor=white">
+<img src="https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/R-F37626?style=for-the-badge&logo=R&logoColor=white">
 
 
 
