@@ -35,10 +35,6 @@ I'm a **`Data Analytics Fanatic`**, a **`Financial Accountant`** by profession a
 <br>
 <br>
 
-<p align="center">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31z2l4laxdexqpfi2rbonfbinxme&cover_image=true&theme=default">
-</p>
 
 
 
