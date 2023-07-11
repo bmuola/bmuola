@@ -29,15 +29,15 @@ I'm a **`Data Analytics Fanatic`**, a **`Financial Accountant`** by profession a
 
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Tech Stack:**  <br> <br>
-<img src="https://img.shields.io/badge/Python-217346?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=black"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"><img src="https://img.shields.io/badge/Tableau-7935D2?style=for-the-badge&logo=Tableau&logoColor=white"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=MicrosoftExcel&logoColor=white"><img src="https://img.shields.io/badge/Power_Point-D35230?style=for-the-badge&logo=Microsoftpowerpoint&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=black"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"><img src="https://img.shields.io/badge/Tableau-7935D2?style=for-the-badge&logo=Tableau&logoColor=white"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=MicrosoftExcel&logoColor=white"><img src="https://img.shields.io/badge/Power_Point-D35230?style=for-the-badge&logo=Microsoftpowerpoint&logoColor=white">
 
 
 <br>
+
+**Still Perfecting:**
 <br>
-
-
-
-
+<br>
+<img src="https://img.shields.io/badge/Python-217346?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/R-F37626?style=for-the-badge&logo=R&logoColor=white">
 
 
 
