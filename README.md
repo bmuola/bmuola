@@ -24,7 +24,7 @@ I'm a **`Data Analytics Fanatic`**, a **`Financial Accountant`** by profession a
 😑 People who write SQL queries in lowercase shouldn't be allowed to touch a keyboard again. <br>
 🙂 Smiling can lower stress levels and boost your immune system. It's a simple act that can have a positive impact on your overall health. <br>
 ⌚ It doesn't take much time to add comments to your SQL. <br>
-😋 Just as taste evolves with experience, so does your coding prowess. <br>
+😋 40% of errors python programmers experience are often related to missing special characters. <br>
 🗄️ Google Workspace is an underrated tool. <br>
 
 
