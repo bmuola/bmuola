@@ -1,7 +1,7 @@
 <p  align="center"><img src = "IMG's/welcome to my gitty (2).gif"></p>
 
 ### Hi Stranger! 👋
-
+```view this in light mode```
 <a href="https://www.linkedin.com/in/benmuola/">
   <img align="left" alt="Ben's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
