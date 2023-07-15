@@ -26,6 +26,7 @@ I'm a **`Data Analytics Fanatic`**, a **`Financial Accountant`** by profession a
 ⌚ It doesn't take much time to add comments to your SQL. <br>
 😋 40% of errors python programmers experience are often related to missing special characters. <br>
 🗄️ Google Workspace is an underrated tool. <br>
+💪 Real goats use light mode.
 
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Tech Stack:**  <br> <br>
