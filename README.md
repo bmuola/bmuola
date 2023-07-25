@@ -15,8 +15,6 @@
 
 ## I'm [**Ben**](https://www.linkedin.com/in/benmuola/) and welcome to my Github💙
 
-<img align="right" height="234" width="156" alt="GIF" src="IMG's/Untitled design (1).png" />
-
 I'm a **`Data Analytics Fanatic`**, a **`Financial Accountant`** by profession as well as a **`Front-end Developer`** by Passion.
 
 **Food for thought:**
