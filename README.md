@@ -1,4 +1,4 @@
-<p  align="center"><img src = "IMG's/welcome to my gitty (3).gif"></p>
+<p  align="center"><img src = "IMG's/welcome to my gitty (5).gif"></p>
 
 ### Hi Stranger! 👋
 ```view this in light mode```
