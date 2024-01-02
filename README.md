@@ -15,7 +15,7 @@
 
 ## I'm [**Ben**](https://www.linkedin.com/in/benmuola/) and welcome to my Github💙
 
-I'm a **`Data Analytics Fanatic`**, a **`Finance Specialist`** by profession as well as a **`Front-end Developer`** by Passion.
+I'm a **`Professional web developer`** by Passion.
 
 **Food for thought:**
 
