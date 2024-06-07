@@ -21,7 +21,7 @@ I'm a **`Professional web developer`** by Passion.
 
 😑 People who write SQL queries in lowercase shouldn't be allowed to touch a keyboard again. <br>
 🙂 Smiling can lower stress levels and boost your immune system. It's a simple act that can have a positive impact on your overall health. <br>
-⌚ It doesn't take much time to add comments to your SQL. <br>
+⌚ It doesn't take much time to add comments to your SQL. I am looking at you **Mercy** 👀<br>
 😋 40% of errors python programmers experience are often related to missing special characters. <br>
 🗄️ Google Workspace is an underrated tool. <br>
 😏 Dark mode is overrated.<br>
@@ -29,7 +29,7 @@ I'm a **`Professional web developer`** by Passion.
 
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Tech Stack:**  <br> <br>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=black"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"><img src="https://img.shields.io/badge/Tableau-7935D2?style=for-the-badge&logo=Tableau&logoColor=white"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=MicrosoftExcel&logoColor=white"><img src="https://img.shields.io/badge/Power_Point-D35230?style=for-the-badge&logo=Microsoftpowerpoint&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=black"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"><img src="https://img.shields.io/badge/Tableau-7935D2?style=for-the-badge&logo=Tableau&logoColor=white"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=MicrosoftExcel&logoColor=white"><img src="https://img.shields.io/badge/Power_Point-D35230?style=for-the-badge&logo=Microsoftpowerpoint&logoColor=white"><img src="https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/R-F37626?style=for-the-badge&logo=R&logoColor=white">
 
 
 <br>
@@ -37,8 +37,8 @@ I'm a **`Professional web developer`** by Passion.
 **Still Perfecting:**
 <br>
 <br>
-<img src="https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/R-F37626?style=for-the-badge&logo=R&logoColor=white">
 
+*NOTHING! I'm good at everything Data Science*
 
 
 
