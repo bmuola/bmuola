@@ -15,7 +15,7 @@
 
 ## I'm [**Ben**](https://www.linkedin.com/in/benmuola/) and welcome to my Github💙
 
-I'm a **`Professional Grants & Tender Specialist`** by Passion.
+I'm an **`Accountant`** by Passion.
 
 **Food for thought:**
 
